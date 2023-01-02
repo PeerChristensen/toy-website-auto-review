@@ -1,4 +1,3 @@
-
 name: pr-closed
 concurrency: ${{ github.event.number }}
 
